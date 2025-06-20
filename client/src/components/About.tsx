@@ -63,7 +63,7 @@ const About = () => {
                 }}
               >
                 <img
-                  src="/src/img/Aditya.jpg"
+                  src="/img/Aditya.jpg"
                   alt="Aditya Padale"
                   className="rounded-full w-40 h-40 md:w-64 md:h-64 object-cover border-4 border-white shadow-md"
                   style={{background: '#E6F4F1'}}
