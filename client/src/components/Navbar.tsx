@@ -87,7 +87,7 @@ const Navbar = () => {
             ))}
             {/* Resume PDF link */}
             <a
-              href="/src/img/Resume.pdf"
+              href="/img/Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#0f172a] font-semibold transition-colors duration-300 relative group"
@@ -138,7 +138,7 @@ const Navbar = () => {
               ))}
               {/* Resume PDF link for mobile */}
               <a
-                href="/src/img/Resume.pdf"
+                href="/img/Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:text-primary transition-colors duration-300"
