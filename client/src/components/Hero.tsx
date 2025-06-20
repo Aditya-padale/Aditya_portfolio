@@ -203,7 +203,7 @@ const Hero = () => {
             >
               <div className="rounded-full w-11/12 h-11/12 flex items-center justify-center overflow-hidden relative z-20 bg-[#E6F4F1]">
                 <img
-                  src="/src/img/Aditya.jpg"
+                  src="/img/Aditya.jpg"
                   alt="Aditya Padale"
                   className="rounded-full w-full h-full object-cover border-4 border-[#E0F7FA]"
                   style={{ boxShadow: "0 4px 12px 0 rgba(230,244,241,0.25)" }}
