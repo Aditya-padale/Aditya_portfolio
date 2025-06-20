@@ -5,13 +5,13 @@ const certifications = [
     title: "Cloud Computing",
     description:
       "Completed NPTEL certification in Cloud Computing, gaining expertise in cloud service models, deployment strategies, and virtualization concepts.",
-    pdf: "/src/img/Cloud Computing.pdf",
+    pdf: "/img/Cloud Computing.pdf",
   },
   {
     title: "Foundations of Artificial Intelligence",
     description:
       "Earned NPTEL certification in Foundations of Artificial Intelligence, covering core AI principles including search algorithms, logic, and knowledge representation.",
-    pdf: "/src/img/Fundamentals of Artificial Intelligence.pdf",
+    pdf: "/img/Fundamentals of Artificial Intelligence.pdf",
   },
 ];
 
