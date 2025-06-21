@@ -3,8 +3,8 @@ import AnimatedBackground from "./ui/particle-background";
 import { useEffect, useRef, useState } from "react";
 
 const typewriterTexts = [
-  "AI Developer | Python & Streamlit Specialist | Tech Innovator",
-  "Building Smart Tools with LangChain & Gemini APIs",
+  "AI Developer | Python Specialist | Tech Innovator",
+  "Building Smart Tools with LangChain & APIs",
   "Open Source Contributor & Mentor",
 ];
 
