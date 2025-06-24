@@ -48,8 +48,8 @@ Adityaport/
 Clone the repo and install dependencies:
 
 ```sh
-git clone <repository-url>
-cd Adityaport
+git clone https://github.com/Aditya-padale/Aditya_portfolio.git
+cd Aditya_portfolio
 npm install
 ```
 
